@@ -1,1 +1,1 @@
-# verkstaedid ÍSAR  
+# verkstaedid ÍSAR/K  
