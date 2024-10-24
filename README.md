@@ -1,6 +1,6 @@
 # verkstaedid ÍSAR/K  
 
-**user stories: **
+user stories:
 
 það er eitthvað að bílnum hans Arnars svo hann fór inn á verkstæðið þar setur hann inn upplýsingar og fær að vita bestu verkstæðin nálægt honum fyrir bestu verðin.
 
